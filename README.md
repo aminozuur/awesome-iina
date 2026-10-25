@@ -2,6 +2,8 @@
 
 A curated list of awesome [IINA](https://github.com/iina/iina) plugins, browser extensions, tools and resources.
 
+🌐 Also available as a website: <https://cxwx.github.io/awesome-iina/>
+
 [IINA](https://iina.io) is the modern video player for macOS. Built on [mpv](https://mpv.io), written in Swift, with native macOS design, Picture-in-Picture, and a JavaScript plugin system.
 
 ## Contents

@@ -20,6 +20,7 @@ Thanks for helping make this list better!
 - Don't add duplicates — search the README first.
 - Sections are ordered alphabetically; keep them that way.
 - A project being small is fine, but it must be installable/usable.
+- If you add a **new section**, also mirror it in `_sidebar.md` (used by the GitHub Pages site).
 
 ## Getting listed in IINA's official Plugin Center
 
