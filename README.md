@@ -18,6 +18,7 @@ IINA is the modern media player for macOS.
 - [bbeny123/iina-jump-to-frame](https://github.com/bbeny123/iina-jump-to-frame) Jump to Frame
 - [mhajder/iina-jellyfin](https://github.com/mhajder/iina-jellyfin) for Jellyfin: automatic subtitles and media browser sidebar
 - [wyattowalsh/iina-plugin-bookmarks](https://github.com/wyattowalsh/iina-plugin-bookmarks) media bookmark manager plugin for the iina video player
+- [leo-mathurin/iina-nightshift-fs](https://github.com/leo-mathurin/iina-nightshift-fs) disable macOS Night Shift while in fullscreen
 - [wilbeibi/iina-plugin-assrt](https://github.com/wilbeibi/iina-plugin-assrt) auto-download Chinese subtitles from assrt.net with alass timing correction
 - [karappo-yu/iina-plugin-danmaku-cosmos](https://github.com/karappo-yu/iina-plugin-danmaku-cosmos) IINA danmaku plugin supporting Niconico and Bilibili formats
 
