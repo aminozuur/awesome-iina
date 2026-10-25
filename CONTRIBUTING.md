@@ -21,6 +21,7 @@ Thanks for helping make this list better!
 - Sections are ordered alphabetically; keep them that way.
 - A project being small is fine, but it must be installable/usable.
 - If you add a **new section**, also mirror it in `_sidebar.md` (used by the GitHub Pages site).
+- Don't add `⭐/🗓` metadata yourself — a weekly GitHub Action (`.github/workflows/update-meta.yml`) appends and refreshes it automatically.
 - The Chinese README (`README.zh-CN.md`) is maintained by hand and may lag behind. You don't have to update it in your PR — but a bonus line there is always welcome.
 
 ## Getting listed in IINA's official Plugin Center
