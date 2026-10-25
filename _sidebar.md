@@ -1,3 +1,5 @@
+**语言**：[English](README.md) | [简体中文](README.zh-CN.md)
+
 - [Home](README.md)
 - [Official Resources](README.md#official-resources)
 - [Install](README.md#install)
